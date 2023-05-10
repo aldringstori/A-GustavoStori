@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @A-GustavoStori
-- 👀 I’m interested in Web/Mobile Development...
-- 🌱 I’m currently learning ... Javascript
-- 💞️ I’m looking to collaborate on web apps ...
-- 📫 How to reach me ... in github
-
+<a href="https://app.daily.dev/gustavostori"><img src="https://api.daily.dev/devcards/91c86b9104a44f528beaa771cdac315b.png?r=a8g" width="400" alt="Gustavo Stori's Dev Card"/></a>
