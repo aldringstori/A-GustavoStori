@@ -29,7 +29,7 @@ I'm Aldrin Gustavo Stori, a software developer passionate about coding, technolo
 
 ### Educational Background
 
-Graduated in **Computer Science Technology** from Maringá University, with a **Postgraduate** degree in **Mobile Application Development** from Americas Union University, and subsequently a **Master of Business Administration (MBA)** in **Cybersecurity** from Americas Union University. Currently pursuing a **Master's in Software Engineering (Software Engineering)** from the **Universidad Europea del Atlántico**, in Santander, Spain. Currently working as a **Software Engineer and DevOps** for the **Foundation for Support in Education, Research, and Scientific and Technological Development of the Federal Technological University of Paraná (UTFPR)**, and have over 70 IT and Leadership course certificates.
+Graduated in **Computer Science Technology** from Maringá University, with **Postgraduate** degrees in **Mobile Application Development** and **Software Engineering** from Americas Union University, and subsequently a **Master of Business Administration (MBA)** in **Cybersecurity** and another in **Big Data** from Americas Union University. Currently pursuing a **Master's in Software Engineering (Software Engineering)** from the **Universidad Europea del Atlántico**, in Santander, Spain. Currently working as a **Software Engineer and DevOps** for the **Foundation for Support in Education, Research, and Scientific and Technological Development of the Federal Technological University of Paraná (UTFPR)**, and have over 70 IT and Leadership course certificates.
 
 ### Educational Achievements and Objectives
 
