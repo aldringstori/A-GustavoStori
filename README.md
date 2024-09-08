@@ -15,7 +15,7 @@ I'm Aldrin Gustavo Stori, a software developer passionate about coding, technolo
 
 #### My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-GustavoStori&layout=compact&count_private=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-GustavoStori&langs_count=10&count_private=true&cache_seconds=1800)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-GustavoStori&show_icons=true&count_private=true&theme=default_repocard)
 
